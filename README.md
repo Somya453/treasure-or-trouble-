@@ -1,3 +1,3 @@
-# treasure-or-trouble-
+# treasure-or-trouble-hunt
 Nice little text-based adventure game🎮
 Since the game is about exploring a dark forest with choices like cave, beast, treasure, etc...
